@@ -54,4 +54,34 @@ necessary to thrive professionally.
 If you are just getting into some work and a phone goes off in the background, it ruins what 
 you are concentrating on, even though you are not aware at the time, the brain 
 responds to distractions.
+
+
+
+Rules:
+-> Work deeply
+    + either work concentrated and uninterupted or dont work
+    + rest from deep work, giv your brain time to process stuff
+    + before starting an deep work session ask yourself:
+        -Where you'll work and how long?
+        -How you'll work once you start
+            >Will you use internet? 
+            >How much pages will you write per hour?
+        -How you'll support your work?
+            >ensure you have water near you
+            >have access to enough food
+    + by leveragin a radical change to your normal enviroment coupeled perhaps with a significent investment of efford 
+      or money all dedicated towards supoprting a deep work task you increase the percieved importance of the work
+-> Embrace Boredom
+    +fill
+    +me
+-> Quit Social Media
+    +fill
+    +me
+-> Drain the Shallows
+    +fill
+    +me
+
+
+
+
 ```
