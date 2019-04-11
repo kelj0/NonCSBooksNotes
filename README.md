@@ -38,7 +38,7 @@ Deliberate practice requires:
 
 High-Quality Work Produced = (Time Spent) x (Intensity of Focus)
 
-By maximizing his intensity when you work, you maximizes the results you produce per unit of time 
+By maximizing your intensity when you work, you maximize the results you produce per unit of time 
 spent working.
 
 When you switch from some Task A to another Task B, your attention doesn’t immediately follow—a 
