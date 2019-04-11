@@ -71,17 +71,39 @@ Rules:
             >have access to enough food
     + by leveragin a radical change to your normal enviroment coupeled perhaps with a significent investment of efford 
       or money all dedicated towards supoprting a deep work task you increase the percieved importance of the work
+    + Be lazy: Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as 
+               vitamin D is to the body, and deprived of it we suffer a mental affliction as disfiguring as rickets… 
+               it is, paradoxically, necessary to getting any work done
+
 -> Embrace Boredom
-    +fill
-    +me
+    + To succeed with deep work you must rewire your brain to be comfortable resisting distracting stimuli
+      This doesn’t mean that you have to eliminate distracting behaviors; it’s sufficient that you instead 
+      eliminate the ability of such behaviors to hijack your attention
+    + Meditatate productively
+        - The goal of productive meditation is to take a period in which you’re occupied physically but 
+          not mentally—walking, jogging, driving, showering—and focus your attention on a single 
+          well-defined professional problem
+
 -> Quit Social Media
-    +fill
-    +me
+    + You’re justified in using a network tool if you can identify any possible benefit to its use, 
+      or anything you might possibly miss out on if you don’t use it.
+    + Identify the core factors that determine success and happiness in your professional and personal life
+      then adopt a tool only if positive impacts on these substantially outweight its negative impacts
+    + Ask yourself:
+        - 1. Would the last thirty days have been notably better if I had been able to use this service?
+        - 2. Did people care that I wasn’t using this service?
+            > If your answer is “no” to both questions, quit the service permanently. If your answer was 
+              a clear “yes,” then return to using the service. If your answers are qualified or ambiguous, 
+              it’s up to you whether you return to the service
+
 -> Drain the Shallows
-    +fill
-    +me
-
-
-
+    + Firstly understand that Deep work is exhausting because it pushes you toward the limit of your abilities
+    + "For someone new to such practice (citing, in particular, a child in the early stages 
+       of developing an expert-level skill), an hour a day is a reasonable limit"
+    + Decide in advance what you’re going to do with every minute of your workday
+        - Advantage of scheduling your day is that you can determine how much time you’re 
+          actually spending in shallow activities
+    + Become hard to reach
+        - Make people who send you email do more work
 
 ```
