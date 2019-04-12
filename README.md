@@ -112,3 +112,25 @@ Rules:
         - Make people who send you email do more work
 
 ```
+
+
+
+
+#### Random notes
+```
+On procrastination
+> Reality check on what can go wrong in the future and keep opportunity cost in mind.
+> Calculate the real risk objectively and set a plan for the worst case scenario
+> Set the specific milestones and end goals
+> Chunking the giant into digestible parts and serving yourself the first tiny bite
+> Get out of the zombie state asap by refueling yourself as quickly and as effectively as 
+  possible. --Sleep deprivation, ++water, ++good food
+> Deadline spiced up with some juicy stake
+  "I'll finish this book soon cause i need to learn X" - NO,
+  "I'll finish this book in 6 days cause X must be learned to complete this stage" - better 
+> Take the first tiny step asap and instead of last minute adrenaline, get high on dopamine
+  by achieving micro-successes along the way
+```
+
+
+
