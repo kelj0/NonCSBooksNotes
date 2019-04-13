@@ -1,11 +1,11 @@
 # NonCSBooksNotes
 Personal notes for books that are not related to computer science
 
-[x] - Cal Newport - Deep Work 
-[ ] - Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking
-[ ] - Mark Forster - Do It Tomorrow and Other Secrets of Time Management
-[ ] - Joe Navarro, Marvin Karlins - What Every Body Is Saying 
-[ ] - Gary Keller, Jay Papasan - The ONE Thing
+- [x] - Cal Newport - Deep Work 
+- [ ] - Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking
+- [ ] - Mark Forster - Do It Tomorrow and Other Secrets of Time Management
+- [ ] - Joe Navarro, Marvin Karlins - What Every Body Is Saying 
+- [ ] - Gary Keller, Jay Papasan - The ONE Thing
 
 ### Deep Work (Cal Newport)
 Rules for Focused Success in a Distracted World
