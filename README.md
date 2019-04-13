@@ -1,13 +1,14 @@
 # NonCSBooksNotes
 Personal notes for books that are not related to computer science
 
-- [x] - Cal Newport - Deep Work 
-- [ ] - Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking
-- [ ] - Mark Forster - Do It Tomorrow and Other Secrets of Time Management
-- [ ] - Joe Navarro, Marvin Karlins - What Every Body Is Saying 
-- [ ] - Gary Keller, Jay Papasan - The ONE Thing
+- [x] - [Cal Newport - Deep Work](#deep-work)
+- [ ] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
+- [ ] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
+- [ ] - [Joe Navarro, Marvin Karlins - What Every Body Is Saying](#what-every-body)
+- [ ] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
 
-### Deep Work (Cal Newport)
+
+### Deep Work (Cal Newport)<a name="deep-work"></a>
 Rules for Focused Success in a Distracted World
 
 ```
@@ -119,22 +120,23 @@ Rules:
 
 
 
-### The 5 Elements of Effective Thinking (Edward B. Burger, Michael Starbird )
+### The 5 Elements of Effective Thinking (Edward B. Burger, Michael Starbird )<a name="five-elements"></a>
 ```
 Fill me with notes
 ```
 
-### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)
+### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)<a name="do-it-tomorrow"></a>
+
 ```
 Fill me with notes
 ```
 
-### What Every Body Is Saying (Joe Navarro, Marvin Karlins) 
+### What Every Body Is Saying (Joe Navarro, Marvin Karlins)<a name="what-every-body"></a>
 ```
 Fill me with notes
 ```
 
-### The ONE Thing( Gary Keller, Jay Papasan) 
+### The ONE Thing( Gary Keller, Jay Papasan) <a name="the-one-thing"></a>
 ```
 Fill me with notes
 ```
