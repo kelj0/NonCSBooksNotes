@@ -122,7 +122,49 @@ Rules:
 
 ### The 5 Elements of Effective Thinking (Edward B. Burger, Michael Starbird )<a name="five-elements"></a>
 ```
-Fill me with notes
+
+Random quotes in book
+	++++
+	|Extraordinary people are just ordinary people who are thinking differently
+	++++
+	|If you can’t solve a problem, then there is an easier problem you can’t solve: find it
+	++++
+	|It’s not what you don’t know that gets you in trouble.
+	|It’s what you do know that ain’t so.
+	++++
+	|The way to get good ideas is to get lots of ideas and throw the bad ones away.
+	++++
+	|The unexamined life is not worth living
+	++++
+
+==Understand deeply==
+	> Don’t face complex issues head-on; first understand simple ideas deeply
+	> Be brutally honest about what you know and don’t know
+	> When you learn anything, go for depth and make it rock solid
+	> Saying what you actually see forces you to become conscious of what is there and also what 
+	  is missing. If you see it, then say it; if you don’t see it, then don’t claim to see it.
+==Make mistakes==
+	> Fail to succeed 
+	> Mistakes are great teachers—they highlight unforeseen opportunities and holes in your 
+      understanding
+==Raise questions==
+	> Constantly create questions to clarify and extend your understanding 
+==Follow the flow of ideas==
+	> Ideas are rare—milk them
+	> Following the consequences of small ideas can result in big payoffs
+==Change==
+	> You can always improve, grow, and extract more out of your education, yourself, 
+      and the way you live your life
+
+----------------
+|Seek essential|
+----------------
+If you literally clear the clutter from your desk, the remaining items are easy to find. 
+But not only can clearing the clutter expose those things that you know are there; 
+it can reveal the otherwise invisible essence of the situation
+
+
+
 ```
 
 ### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)<a name="do-it-tomorrow"></a>
