@@ -67,7 +67,7 @@ responds to distractions.
 Rules:
 -> Work deeply
     + either work concentrated and uninterupted or dont work
-    + rest from deep work, giv your brain time to process stuff
+    + rest from deep work, give your brain time to process stuff
     + before starting an deep work session ask yourself:
         -Where you'll work and how long?
         -How you'll work once you start
