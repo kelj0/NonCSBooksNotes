@@ -2,7 +2,7 @@
 Personal notes for books that are not related to computer science
 
 - [x] - [Cal Newport - Deep Work](#deep-work)
-- [ ] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
+- [x] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
 - [ ] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
 - [ ] - [Joe Navarro, Marvin Karlins - What Every Body Is Saying](#what-every-body)
 - [ ] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
@@ -163,7 +163,19 @@ If you literally clear the clutter from your desk, the remaining items are easy 
 But not only can clearing the clutter expose those things that you know are there; 
 it can reveal the otherwise invisible essence of the situation
 
+Example of asking good questions:
+While stuck (and frustrated) in bumper-to-bumper traffic that is moving at a painfully slow crawl, you 
+wonder (perhaps in more colorful language), “How can this traffic problem be fixed?!?” The answers are 
+easy but not practical: increase the flow by widening the roads or constructing additional highways. But 
+the reality is that unless you’re the president or governor, you cannot make either solution happen. Thus 
+your frustration level rises along with your blood pressure. Your question was not a great one. Instead 
+ask, “Given that I will spend an extra forty minutes in traffic, how can I use that time effectively?” 
+Now you’re asking a question that is productive. You might consider books on tape to entertain or educate 
+you, or language tapes to improve your Greek, or visits with distant family and friends via Bluetooth.
 
+Ask meta questions
+    > What’s the goal of this task?
+    > What benefit flows from the task?
 
 ```
 
