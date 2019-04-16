@@ -180,9 +180,22 @@ Ask meta questions
 ```
 
 ### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)<a name="do-it-tomorrow"></a>
-
 ```
-Fill me with notes
+"To complain about a shortage of time is like a fish in the sea complaining 
+ that it has a shortage of water"
+
+The Principles:
+    * Have a clear vision
+    * One thing at a time
+    * Little and often
+        > human mind works most effectively when it is doing something little and often
+    * Limits
+    * Closed lists
+        > don't add new stuff to your list.. close it and finish it before you add new tasks
+    * Reduce randomness
+        > We can never entirely get away from random elements in our day, but the more we 
+          can eliminate them the more we will be able to control our day
+    * Commitment vs interest
 ```
 
 ### What Every Body Is Saying (Joe Navarro, Marvin Karlins)<a name="what-every-body"></a>
