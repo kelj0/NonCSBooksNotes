@@ -4,7 +4,6 @@ Personal notes for books that are not related to computer science
 - [x] - [Cal Newport - Deep Work](#deep-work)
 - [x] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
 - [ ] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
-- [ ] - [Joe Navarro, Marvin Karlins - What Every Body Is Saying](#what-every-body)
 - [ ] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
 
 
@@ -181,8 +180,17 @@ Ask meta questions
 
 ### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)<a name="do-it-tomorrow"></a>
 ```
-"To complain about a shortage of time is like a fish in the sea complaining 
- that it has a shortage of water"
+Random quotes from book
+++++
+|To complain about a shortage of time is like a fish in the sea complaining 
+| that it has a shortage of water
+++++
+|Just because something would be nice to eat, doesn’t mean you have to eat it
+++++
+|Busy work often looks more like work than real work does
+++++
+|
+++++
 
 The Principles:
     * Have a clear vision
@@ -196,12 +204,23 @@ The Principles:
         > We can never entirely get away from random elements in our day, but the more we 
           can eliminate them the more we will be able to control our day
     * Commitment vs interest
-```
 
-### What Every Body Is Saying (Joe Navarro, Marvin Karlins)<a name="what-every-body"></a>
-```
-Fill me with notes
-```
+There are only 3 causes of time problem:
+    > We are working inefficiently
+    > We have too much to do
+    > We have too little time to do it in
+
+Real work vs Busy work
+    Real work is what advances your business or your job
+    Busy work, on the other hand, is what you do in order to avoid doing the real work
+
+Detect wheather you are in busy work trap
+> If you never have time to stop and think. Real work is thought expressing itself in action
+> If your time horizon is always very short. Real work involves planning further ahead than
+  the immediate horizon
+
+
+``` 
 
 ### The ONE Thing( Gary Keller, Jay Papasan) <a name="the-one-thing"></a>
 ```
