@@ -123,18 +123,12 @@ Rules:
 ```
 
 Random quotes in book
-	++++
-	|Extraordinary people are just ordinary people who are thinking differently
-	++++
-	|If you can’t solve a problem, then there is an easier problem you can’t solve: find it
-	++++
-	|It’s not what you don’t know that gets you in trouble.
-	|It’s what you do know that ain’t so.
-	++++
-	|The way to get good ideas is to get lots of ideas and throw the bad ones away.
-	++++
-	|The unexamined life is not worth living
-	++++
+> "Extraordinary people are just ordinary people who are thinking differently"
+> "If you can’t solve a problem, then there is an easier problem you can’t solve: find it"
+> "It’s not what you don’t know that gets you in trouble.
+   It’s what you do know that ain’t so."
+> "The way to get good ideas is to get lots of ideas and throw the bad ones away."
+> "The unexamined life is not worth living"
 
 ==Understand deeply==
 	> Don’t face complex issues head-on; first understand simple ideas deeply
@@ -181,16 +175,10 @@ Ask meta questions
 ### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)<a name="do-it-tomorrow"></a>
 ```
 Random quotes from book
-++++
-|To complain about a shortage of time is like a fish in the sea complaining 
-| that it has a shortage of water
-++++
-|Just because something would be nice to eat, doesn’t mean you have to eat it
-++++
-|Busy work often looks more like work than real work does
-++++
-|
-++++
+> "To complain about a shortage of time is like a fish in the sea complaining 
+   that it has a shortage of water"
+> "Just because something would be nice to eat, doesn’t mean you have to eat it"
+> "Busy work often looks more like work than real work does"
 
 The Principles:
     * Have a clear vision
@@ -219,6 +207,10 @@ Detect wheather you are in busy work trap
 > If your time horizon is always very short. Real work involves planning further ahead than
   the immediate horizon
 
+Little and often
+
+Schedule regular checks for your projects to ensure that 
+they are developing in the way you want them to
 
 ``` 
 
