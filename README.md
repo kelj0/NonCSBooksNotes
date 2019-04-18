@@ -3,8 +3,10 @@ Personal notes for books that are not related to computer science
 
 - [x] - [Cal Newport - Deep Work](#deep-work)
 - [x] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
-- [ ] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
+- [x] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
 - [ ] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
+- [ ] - [Algorithms to Live By: The Computer Science of Human Decisions](#algorithms-to-live-by)
+- [ ] - [Brain Rules - by John Medina](#brain-rules)
 
 
 ### Deep Work (Cal Newport)<a name="deep-work"></a>
@@ -215,6 +217,16 @@ they are developing in the way you want them to
 ``` 
 
 ### The ONE Thing( Gary Keller, Jay Papasan) <a name="the-one-thing"></a>
+```
+Fill me with notes
+```
+
+### Algorithms to Live By: The Computer Science of Human Decisions<a name="algorithms-to-live-by"></a>
+```
+Fill me with notes
+```
+
+### Brain Rules - by John Medina<a name="brain-rules"></a>
 ```
 Fill me with notes
 ```
