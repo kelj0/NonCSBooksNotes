@@ -8,6 +8,7 @@ Personal notes for books that are not related to computer science
 - [ ] - [Algorithms to Live By: The Computer Science of Human Decisions](#algorithms-to-live-by)
 - [ ] - [Brain Rules - by John Medina](#brain-rules)
 
+---
 
 ### Deep Work (Cal Newport)<a name="deep-work"></a>
 Rules for Focused Success in a Distracted World
@@ -118,10 +119,9 @@ Rules:
     + Become hard to reach
         - Make people who send you email do more work
 ```
+---
 
-
-
-### The 5 Elements of Effective Thinking (Edward B. Burger, Michael Starbird )<a name="five-elements"></a>
+### The 5 Elements of Effective Thinking (Edward B. Burger, Michael Starbird)<a name="five-elements"></a>
 ```
 
 Random quotes in book
@@ -173,6 +173,7 @@ Ask meta questions
     > What benefit flows from the task?
 
 ```
+---
 
 ### Do It Tomorrow and Other Secrets of Time Management (Mark Forster)<a name="do-it-tomorrow"></a>
 ```
@@ -215,22 +216,25 @@ Schedule regular checks for your projects to ensure that
 they are developing in the way you want them to
 
 ``` 
+---
 
-### The ONE Thing( Gary Keller, Jay Papasan) <a name="the-one-thing"></a>
+### The ONE Thing (Gary Keller, Jay Papasan) <a name="the-one-thing"></a>
 ```
 Fill me with notes
 ```
+---
 
-### Algorithms to Live By: The Computer Science of Human Decisions<a name="algorithms-to-live-by"></a>
+### Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)<a name="algorithms-to-live-by"></a>
 ```
 Fill me with notes
 ```
+---
 
-### Brain Rules - by John Medina<a name="brain-rules"></a>
+### Brain Rules (John Medina)<a name="brain-rules"></a>
 ```
 Fill me with notes
 ```
-
+---
 
 #### Random notes
 ```
