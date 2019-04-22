@@ -220,8 +220,16 @@ they are developing in the way you want them to
 
 ### The ONE Thing (Gary Keller, Jay Papasan) <a name="the-one-thing"></a>
 ```
-Fill me with notes
+Extraordinary results are directly determined by how narrow you can make your focus
 ```
+
+Remember "The domino effect"
+![alt text](res/dominoEffect.png)
+```
+Find the lead domino, and whack away at it until it falls
+The key is over time. Success is built sequentially. It’s one thing at a time
+```
+
 ---
 
 ### Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)<a name="algorithms-to-live-by"></a>
@@ -251,6 +259,5 @@ On procrastination
 > Take the first tiny step asap and instead of last minute adrenaline, get high on dopamine
   by achieving micro-successes along the way
 ```
-
 
 
