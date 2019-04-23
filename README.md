@@ -230,6 +230,48 @@ Find the lead domino, and whack away at it until it falls
 The key is over time. Success is built sequentially. It’s one thing at a time
 ```
 
+The six lies between you and success
+
+#### Everything Matters Equally
+
+![alt text](res/success_list.png)
+
+```
+No matter how many to-dos you start with, you can always narrow it to one
+
+1. Go small. Don't focus on being busy; focus on being productive. Allow what matters most to 
+   drive your day.
+2. Go extreme. Once you’ve figured out what actually matters, keep asking what matters most until 
+   there is only one thing left. That core activity goes at the top of your success list.
+3. Say no. Wheather you say "later" or "never" the point is to say “not now” to anything else you 
+   could do until your most important work is done.
+
+The most important thing is DOING the most important thing
+```
+
+#### Multitasking
+```
+"To do two things at once is to do neither."
+```
+
+#### A Disciplined Life
+```
+Fill me
+```
+#### Willpower Is Always on Will-Call
+```
+Fill me
+```
+#### A Balanced Life
+```
+Fill me
+```
+#### Big is Bad
+```
+Fill me
+```
+
+
 ---
 
 ### Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)<a name="algorithms-to-live-by"></a>
