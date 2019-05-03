@@ -252,16 +252,37 @@ The most important thing is DOING the most important thing
 #### Multitasking
 ```
 "To do two things at once is to do neither."
+
+You can do two things at once, but you can’t focus effectively on two things at once
 ```
 
 #### A Disciplined Life
 ```
-Fill me
+* Success is actually a short race—a sprint fueled by discipline just long enough for habit to 
+  kick in and take over
+* Success is about doing the right thing, not about doing everything right
+* It takes an average of 66 days to acquire a new habit
+
+tl;dr discipline+time=habbit
+      habbit = success
 ```
+
 #### Willpower Is Always on Will-Call
 ```
-Fill me
+WHAT TAXES YOUR WILLPOWER
+* Implementing new behaviors
+* Filtering distractions
+* Resisting temptation
+* Suppressing emotion
+* Restraining aggression
+* Suppressing impulses
+* Taking tests
+* Trying to impress others
+* Coping with fear
+* Doing something you don’t enjoy
+* Selecting long-term over short-term rewards
 ```
+
 #### A Balanced Life
 ```
 Fill me
