@@ -283,6 +283,7 @@ WHAT TAXES YOUR WILLPOWER
 * Selecting long-term over short-term rewards
 ```
 Your willpower during day
+
 ![alt text](res/willpower.PNG)
 
 ##### A Balanced Life
