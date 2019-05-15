@@ -230,9 +230,9 @@ Find the lead domino, and whack away at it until it falls
 The key is over time. Success is built sequentially. It’s one thing at a time
 ```
 
-The six lies between you and success
+#### The six lies between you and success
 
-#### Everything Matters Equally
+##### Everything Matters Equally
 
 ![alt text](res/success_list.png)
 
@@ -249,14 +249,14 @@ No matter how many to-dos you start with, you can always narrow it to one
 The most important thing is DOING the most important thing
 ```
 
-#### Multitasking
+##### Multitasking
 ```
 "To do two things at once is to do neither."
 
 You can do two things at once, but you can’t focus effectively on two things at once
 ```
 
-#### A Disciplined Life
+##### A Disciplined Life
 ```
 * Success is actually a short race—a sprint fueled by discipline just long enough for habit to 
   kick in and take over
@@ -267,7 +267,7 @@ tl;dr discipline+time=habbit
       habbit = success
 ```
 
-#### Willpower Is Always on Will-Call
+##### Willpower Is Always on Will-Call
 ```
 WHAT TAXES YOUR WILLPOWER
 * Implementing new behaviors
@@ -281,28 +281,27 @@ WHAT TAXES YOUR WILLPOWER
 * Coping with fear
 * Doing something you don’t enjoy
 * Selecting long-term over short-term rewards
-
+```
 Your willpower during day
 ![alt text](res/willpower.png)
-```
 
-#### A Balanced Life
+##### A Balanced Life
 ```
 “Imagine life is a game in which you are juggling five balls. The balls are called work, family, 
 health, friends, and integrity. And you’re keeping all of them in the air. But one day you finally
 come to understand that work is a rubber ball. If you drop it, it will bounce back. The other four
 balls family, health, friends, integrity—are made of glass. If you drop one of these, it will be
 irrevocably scuffed, nicked, perhaps even shattered.”
-
-![alt text](res/balancedLife.png)
 ```
-#### Big is Bad
+![alt text](res/balancedLife.png)
+
+##### Big is Bad
 ```
 Don’t let small thinking cut your life down to size. Think big, aim high, act bold. And see just 
 how big you can blow up your life.
-
-![alt text](res/howBigIsYourBox.png)
 ```
+![alt text](res/howBigIsYourBox.png)
+
 
 
 ---
