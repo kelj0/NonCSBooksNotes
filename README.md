@@ -283,7 +283,7 @@ WHAT TAXES YOUR WILLPOWER
 * Selecting long-term over short-term rewards
 ```
 Your willpower during day
-![alt text](res/willpower.png)
+![alt text](res/willpower.PNG)
 
 ##### A Balanced Life
 ```
@@ -293,14 +293,14 @@ come to understand that work is a rubber ball. If you drop it, it will bounce ba
 balls family, health, friends, integrity—are made of glass. If you drop one of these, it will be
 irrevocably scuffed, nicked, perhaps even shattered.”
 ```
-![alt text](res/balancedLife.png)
+![alt text](res/balancedLife.PNG)
 
 ##### Big is Bad
 ```
 Don’t let small thinking cut your life down to size. Think big, aim high, act bold. And see just 
 how big you can blow up your life.
 ```
-![alt text](res/howBigIsYourBox.png)
+![alt text](res/howBigIsYourBox.PNG)
 
 
 
