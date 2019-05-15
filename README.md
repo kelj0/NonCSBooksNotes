@@ -281,15 +281,27 @@ WHAT TAXES YOUR WILLPOWER
 * Coping with fear
 * Doing something you don’t enjoy
 * Selecting long-term over short-term rewards
+
+Your willpower during day
+![alt text](res/willpower.png)
 ```
 
 #### A Balanced Life
 ```
-Fill me
+“Imagine life is a game in which you are juggling five balls. The balls are called work, family, 
+health, friends, and integrity. And you’re keeping all of them in the air. But one day you finally
+come to understand that work is a rubber ball. If you drop it, it will bounce back. The other four
+balls family, health, friends, integrity—are made of glass. If you drop one of these, it will be
+irrevocably scuffed, nicked, perhaps even shattered.”
+
+![alt text](res/balancedLife.png)
 ```
 #### Big is Bad
 ```
-Fill me
+Don’t let small thinking cut your life down to size. Think big, aim high, act bold. And see just 
+how big you can blow up your life.
+
+![alt text](res/howBigIsYourBox.png)
 ```
 
 
