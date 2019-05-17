@@ -293,6 +293,11 @@ health, friends, and integrity. And you’re keeping all of them in the air. But
 come to understand that work is a rubber ball. If you drop it, it will bounce back. The other four
 balls family, health, friends, integrity—are made of glass. If you drop one of these, it will be
 irrevocably scuffed, nicked, perhaps even shattered.”
+
+To achieve an extraordinary result you must choose what matters most and give it all the time it demands. 
+This requires getting extremely out of balance in relation to all other work issues, with only infrequent 
+counterbalancing to address them
+
 ```
 ![alt text](res/balancedLife.PNG)
 
@@ -302,7 +307,6 @@ Don’t let small thinking cut your life down to size. Think big, aim high, act 
 how big you can blow up your life.
 ```
 ![alt text](res/howBigIsYourBox.PNG)
-
 
 
 ---
