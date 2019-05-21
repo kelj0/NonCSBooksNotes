@@ -303,11 +303,42 @@ counterbalancing to address them
 
 ##### Big is Bad
 ```
+“People who are crazy enough to think they can change the world are the only ones who do.”
+
+Once you’ve asked a big question, pause to imagine what life looks like
+with the answer. If you still can’t imagine it, go study people who have
+already achieved it. What are the models, systems, habits, and relationships
+of other people who have found the answer?
+ 
 Don’t let small thinking cut your life down to size. Think big, aim high, act bold. And see just 
 how big you can blow up your life.
 ```
 ![alt text](res/howBigIsYourBox.PNG)
 
+#### The Truth
+```
+Ablity of any answer is directly determined by the quality of the question.
+Ask the wrong question, get the wrong answer
+
+"People do not decide their futures, they decide their habits aand their habits decide their futures"
+Create strong Success habits for your physical health, spiritual life, job, new skill, relationships..
+
+1. Ask a great question(think big and specific)
+2. Find a great answer(research, find whats the ONE thing you need to do to make it happen)
+
+"Even if you're on the right track, you'll get run over if you just sit there"
+
+
+The more productive people are, the more purpose and priority are pushing and driving them
+```
+![alt text](res/productivityMountain.png)
+
+```
+"Life isn't about finding yourself. Life is about creating yourself"
+
+Our purpuse sets our priority and our priority determines the productivity our actions produce
+
+```
 
 ---
 
