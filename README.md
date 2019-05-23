@@ -338,7 +338,15 @@ The more productive people are, the more purpose and priority are pushing and dr
 
 Our purpuse sets our priority and our priority determines the productivity our actions produce
 
+Who we are and where we want to go determine what we do and what we accomplish
+
+You’re training your mind how to think, how to connect one goal with the next over 
+time until you know the most important thing you must do right NOW. You’re learning 
+how to think big—but go small.
 ```
+![alt text](res/goalSetting.png)
+
+![alt text](res/goalSetting2.png)
 
 ---
 
