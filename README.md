@@ -4,7 +4,7 @@ Personal notes for books that are not related to computer science
 - [x] - [Cal Newport - Deep Work](#deep-work)
 - [x] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
 - [x] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
-- [ ] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
+- [x] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
 - [ ] - [Algorithms to Live By: The Computer Science of Human Decisions](#algorithms-to-live-by)
 - [ ] - [Brain Rules - by John Medina](#brain-rules)
 - [ ] - [Why We Sleep Matthew Walker](#)
@@ -348,6 +348,16 @@ how to think big—but go small.
 
 ![alt text](res/goalSetting2.png)
 
+```
+“Only those who will risk going too far can possibly find out how far one can go”
+At any moment in time there can be only ONE Thing
+
+“Twenty years from now you will be more disappointed by the things that you didn’t 
+do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. 
+Catch the trade winds in your sails. Explore. Dream. Discover.”
+
+In the end you'll be able to say "I'm glad I did IT" NOT "I wish I had IT"
+```
 ---
 
 ### Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)<a name="algorithms-to-live-by"></a>
