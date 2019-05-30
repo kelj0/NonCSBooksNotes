@@ -5,7 +5,7 @@ Personal notes for books that are not related to computer science
 - [x] - [Edward B. Burger, Michael Starbird - The 5 Elements of Effective Thinking](#five-elements)
 - [x] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
 - [x] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
-- [ ] - [Algorithms to Live By: The Computer Science of Human Decisions](#algorithms-to-live-by)
+- [x] - [Algorithms to Live By: The Computer Science of Human Decisions](#algorithms-to-live-by)
 - [ ] - [Brain Rules - by John Medina](#brain-rules)
 - [ ] - [Why We Sleep Matthew Walker](#)
 ---
@@ -362,7 +362,16 @@ In the end you'll be able to say "I'm glad I did IT" NOT "I wish I had IT"
 
 ### Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)<a name="algorithms-to-live-by"></a>
 ```
-Fill me with notes
+`this are notes from  only first part of book`
+
+#### 37% rule
+```
+Lets say you are interviewing programmers, and the ones you say no to you cant call back. Apply 37% rule
+Let first 37% of interviews be your calibration for whats good and whats bad
+After 37% of interviewed people choose the first that looks like good one
+```
+
+
 ```
 ---
 
