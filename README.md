@@ -6,7 +6,7 @@ Personal notes for books that are not related to computer science
 - [x] - [Mark Forster - Do It Tomorrow and Other Secrets of Time Management](#do-it-tomorrow)
 - [x] - [Gary Keller, Jay Papasan - The ONE Thing](#the-one-thing)
 - [x] - [Algorithms to Live By: The Computer Science of Human Decisions](#algorithms-to-live-by)
-- [ ] - [Brain Rules - by John Medina](#brain-rules)
+- [-] - [Brain Rules - by John Medina](#brain-rules)
 - [ ] - [Why We Sleep Matthew Walker](#)
 ---
 
@@ -376,9 +376,73 @@ After 37% of interviewed people choose the first that looks like good one
 ---
 
 ### Brain Rules (John Medina)<a name="brain-rules"></a>
+* [Rule 1 exercise boosts brain power](#rule-1-boosts-brain-power)
+* [Rule 2 the human brain evolved too](#rule-2-the-human brain-evolved-too)
+* [Rule 3 every brain is wired differently](#rule-3-every-brain-is-wired-differently)
+* [Rule 4 we dont pay attention to boring things](#rule-4-we-dont-pay-attention-to-boring-things)
+* [Rule 5 repeat to remember](#rule-5-repeat-to-remember)
+* [Rule 6 repeat to remember](#rule-6-repeat-to-remember)
+* [Rule 7 sleep well think well](#rule-7-sleep-well-think-well)
+* [Rule 8 stressed brains dont learn the same way](#rule-8-stressed-brains-dont-learn-the-same-way)
+* [Rule 9 stimulate more of the senses](#rule-9-stimulate-more-of-the-senses)
+* [Rule 10 vision trumps all other senses](#rule-10-vision-trumps-all-other-senses)
+* [Rule 11 male and female brains are differen](#rule-11-male-and-female-brains-are-differen)
+* [Rule 12 we are powerful and natural explorers](#rule-12-we-are-powerful-and-natural-explorers)
+
+##### Rule 1 exercise boosts brain power
 ```
-Fill me with notes
+fill me
 ```
+
+##### Rule 2 the human brain evolved too
+```
+fill me
+```
+##### Rule 3 every brain is wired differently
+```
+fill me
+```
+
+##### Rule 4 we dont pay attention to boring things
+```
+fill me
+```
+
+##### Rule 5 repeat to remember
+```
+fill me
+```
+
+##### Rule 6 repeat to remember
+```
+fill me
+```
+
+##### Rule 7 sleep well think well
+```
+fill me
+```
+
+##### Rule 8 stressed brains dont learn the same way
+```
+fill me
+```
+
+##### Rule 9 stimulate more of the senses
+```
+fill me
+```
+
+##### Rule 10 vision trumps all other senses
+```
+fill me
+```
+
+##### Rule 11 male and female brains are differen
+```
+fill me
+```
+
 ---
 
 #### Random notes
