@@ -391,7 +391,11 @@ After 37% of interviewed people choose the first that looks like good one
 
 ##### Rule 1 exercise boosts brain power
 ```
-fill me
+TLDR - Exercisers outperform couch potatoes in long-term memory, reasoning, attention, and problem-solving tasks
+Researchers found a group of couch potatoes, measured their brain power, exercised them for a period of 
+time, and re-examined their brain power.
+They consistently found that when couch potatoes are enrolled in an aerobic exercise program, all kinds
+of mental abilities begin to come back online
 ```
 
 ##### Rule 2 the human brain evolved too
