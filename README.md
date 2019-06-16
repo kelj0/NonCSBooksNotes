@@ -362,22 +362,22 @@ In the end you'll be able to say "I'm glad I did IT" NOT "I wish I had IT"
 
 ### Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian, Tom Griffiths)<a name="algorithms-to-live-by"></a>
 ```
-`this are notes from  only first part of book`
+this are notes from  only first part of book
+```
 
 #### 37% rule
+
 ```
 Lets say you are interviewing programmers, and the ones you say no to you cant call back. Apply 37% rule
 Let first 37% of interviews be your calibration for whats good and whats bad
 After 37% of interviewed people choose the first that looks like good one
 ```
 
-
-```
 ---
 
 ### Brain Rules (John Medina)<a name="brain-rules"></a>
 * [Rule 1 exercise boosts brain power](#rule-1-boosts-brain-power)
-* [Rule 2 the human brain evolved too](#rule-2-the-human brain-evolved-too)
+* [Rule 2 the human brain evolved too](#rule-2-the-human-brain-evolved-too)
 * [Rule 3 every brain is wired differently](#rule-3-every-brain-is-wired-differently)
 * [Rule 4 we dont pay attention to boring things](#rule-4-we-dont-pay-attention-to-boring-things)
 * [Rule 5 repeat to remember](#rule-5-repeat-to-remember)
