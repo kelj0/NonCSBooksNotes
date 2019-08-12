@@ -400,7 +400,30 @@ of mental abilities begin to come back online
 
 ##### Rule 2 the human brain evolved too
 ```
-fill me
+Our ancestral bodies used the energy surplus not to pump up our muscles but to pump up our minds—to the 
+point that our modern-day brain, 2 percent of our body weight, sucks up 20 percent of the energy we 
+consume.
+
+These changes in the structure of the brain led to the masterpiece of evolution, the region that 
+distinguishes humans from all other creatures. It is a specialized area of the frontal lobe, just 
+behind the forehead, called the prefrontal cortex.
+
+We got our first hints about its function from a man named Phineas Gage, who suffered the most famous 
+occupational injury in the history of brain science. The injury didn’t kill him, but his family probably 
+wished it had. Gage was a popular foreman of a railroad construction crew. He was funny, clever, 
+hardworking, and responsible, the kind of man any dad would be proud to call “son-in-law.” On September 
+13,1848, he set an explosives charge in the hole of a rock using a tamping iron, a 3-foot rod about an 
+inch in diameter.
+
+The charge blew the rod into Gage’s head, entering just under the eye and destroying most of his 
+prefrontal cortex. Miraculously, Gage survived, but he became tactless, impulsive, and profane. He left 
+his family and wandered aimlessly from job to job. His friends said he was no longer Gage.
+
+This was the first real evidence that the prefrontal cortex governs several uniquely human cognitive 
+talents, called “executive functions”: solving problems, maintaining attention, and inhibiting emotional 
+impulses. In short, this region controls many of the behaviors that separate us from other animals.
+
+
 ```
 ##### Rule 3 every brain is wired differently
 ```
@@ -424,7 +447,7 @@ fill me
 
 ##### Rule 7 sleep well think well
 ```
-fill me
+A 26-minute nap improved NASA pilots performance by 34 percent
 ```
 
 ##### Rule 8 stressed brains dont learn the same way
